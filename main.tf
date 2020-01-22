@@ -26,7 +26,7 @@
 
 locals {
   tags {
-    ServiceProvider = "Rackspace"
+    ServiceProvider = "Sage"
     Environment     = "${var.environment}"
   }
 
